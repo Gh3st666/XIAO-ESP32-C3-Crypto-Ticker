@@ -31,7 +31,7 @@ No wiring needed: just plug the XIAO into the expansion board.
 
 A two-part case (top frame with cutouts for the screen, button and XIAO, plus a bottom cover) fits the expansion board. The model is included in this repo as a 3MF file:
 
-[`case/XIAO_Expansion_Board_Case.3mf`](XIAO_Expansion_Board_Case.3mf)
+⬇️ **[Download XIAO_Expansion_Board_Case.3mf](https://github.com/Gh3st666/XIAO-ESP32-C3-Crypto-Ticker/raw/main/XIAO_Expansion_Board_Case.3mf)**
 
 <p align="center">
   <img src="case-render.png" alt="Render of the 3D printed case: top frame, bottom cover and button cap" width="500">
