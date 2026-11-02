@@ -39,7 +39,7 @@ A two-part case (top frame with cutouts for the screen, button and XIAO, plus a 
 
 Open it in your slicer (PrusaSlicer, Bambu Studio, Cura, etc.) and print. I printed mine in black.
 
-> **Credit:** the case model is not my own design. Original author and license: _add link and name here_.
+> **Credit:** the case model is not my own design. Original author and license: https://makerworld.com/en/models/3311155-xiao-expansion-board-case-snap-fit#profileId-3759088.
 
 ## Software requirements
 
