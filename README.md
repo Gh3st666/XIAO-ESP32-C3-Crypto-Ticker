@@ -3,7 +3,7 @@
 A tiny live cryptocurrency price ticker for the **Seeed Studio XIAO ESP32-C3** and the **XIAO Expansion Board**. Prices show up on the built-in OLED screen, and you switch between coins with the on-board user button. No API key needed.
 
 <p align="center">
-  <img src="images/demo.jpg" alt="XIAO ESP32-C3 crypto ticker showing the BTC price in a 3D printed case" width="400">
+  <img src="demo.jpg" alt="XIAO ESP32-C3 crypto ticker showing the BTC price in a 3D printed case" width="400">
 </p>
 
 ## Features
@@ -31,10 +31,10 @@ No wiring needed: just plug the XIAO into the expansion board.
 
 A two-part case (top frame with cutouts for the screen, button and XIAO, plus a bottom cover) fits the expansion board. The model is included in this repo as a 3MF file:
 
-[`case/XIAO_Expansion_Board_Case.3mf`](case/XIAO_Expansion_Board_Case.3mf)
+[`case/XIAO_Expansion_Board_Case.3mf`](XIAO_Expansion_Board_Case.3mf)
 
 <p align="center">
-  <img src="images/case-render.png" alt="Render of the 3D printed case: top frame, bottom cover and button cap" width="500">
+  <img src="case-render.png" alt="Render of the 3D printed case: top frame, bottom cover and button cap" width="500">
 </p>
 
 Open it in your slicer (PrusaSlicer, Bambu Studio, Cura, etc.) and print. I printed mine in black.
